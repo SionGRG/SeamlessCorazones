@@ -1,4 +1,5 @@
 # Custom Ignore list
+[Aa]ssets/
 StarterContent/
 
 # Visual Studio 2015 user specific files
