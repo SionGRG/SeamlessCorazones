@@ -1,6 +1,7 @@
 # Custom Ignore list
 [Aa]ssets/
 StarterContent/
+Packaged Game/
 
 # Visual Studio 2015 user specific files
 .vs/

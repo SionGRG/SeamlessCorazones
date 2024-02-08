@@ -18,5 +18,9 @@
 			"Name": "GPULightmass",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor"
 	]
 }
